@@ -1,2 +1,2 @@
-# My.first.git.project
-My.first.git.project on dell/windows7
+# my.first.repo.on.github
+my.first.repo.on.github
