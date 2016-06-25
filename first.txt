@@ -1,12 +1,2 @@
-<<<<<<< HEAD
 this is my frist file that I was be able to push from office del laptop to https://github.com
 this is a second line I am adding
-=======
-
-
-
-
-Adsgwsgadsgsadadsgtse
-A
-1
->>>>>>> parent of 603b956... updated first.txt file
