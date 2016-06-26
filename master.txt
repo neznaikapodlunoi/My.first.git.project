@@ -4,5 +4,7 @@ this is my frist file that I was be able to push from office del laptop to https
 this is my second line again
 
 
+NE MORE LINE HERE
+
 THis changes in master.txt
 made in branch_to_merged
